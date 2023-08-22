@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\bin\Debug\net7.0\ClassCreation.exe
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\bin\Debug\net7.0\ClassCreation.deps.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\bin\Debug\net7.0\ClassCreation.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\bin\Debug\net7.0\ClassCreation.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\bin\Debug\net7.0\ClassCreation.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\refint\ClassCreation.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ClassCreation.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Week 2\CreateAClass\ClassCreation\obj\Debug\net7.0\ref\ClassCreation.dll
